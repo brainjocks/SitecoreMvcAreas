@@ -15,14 +15,14 @@ name: __Base template
 key: __base template
 content-length: 77
 
-{7EE0975B-0698-493E-B3A2-0B2EF33D0522}|{EA1B4EE9-27FF-47A9-86DF-04066A4920FC}
+{7EE0975B-0698-493E-B3A2-0B2EF33D0522}|{9D87732A-ED52-496E-AFAF-80774C6B21E6}
 ----field----
 field: {F7D48A55-2158-4F02-9356-756654404F73}
 name: __Standard values
 key: __standard values
 content-length: 38
 
-{DF0B0BD5-B55D-475A-86D3-A3F2C7D558D4}
+{102CF1D4-9AE6-4379-97EA-91C925B41507}
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
@@ -40,7 +40,7 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 55afc3a7-c5ff-40a0-95f6-8b98453e7b06
+revision: c7255628-8f19-4808-ab82-57507499b742
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -62,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-55afc3a7-c5ff-40a0-95f6-8b98453e7b06
+c7255628-8f19-4808-ab82-57507499b742
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20141207T084743:635535388632879158
+20141207T091627:635535405874279554
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

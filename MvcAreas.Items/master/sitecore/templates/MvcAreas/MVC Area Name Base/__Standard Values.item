@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {37C56C9A-2516-417D-A615-9C815B34CDEE}
+database: master
+path: /sitecore/templates/MvcAreas/MVC Area Name Base/__Standard Values
+parent: {9D87732A-ED52-496E-AFAF-80774C6B21E6}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {9D87732A-ED52-496E-AFAF-80774C6B21E6}
+templatekey: MVC Area Name Base
+
+----field----
+field: {AE70CFBB-D5F5-4052-AE8F-90F628AB3B97}
+name: Area Name
+key: area name
+content-length: 5
+
+$name
+----version----
+language: en
+version: 1
+revision: a1a29675-2ce7-4c73-a988-70761bcd9217
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20141207T091639
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a1a29675-2ce7-4c73-a988-70761bcd9217
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20141207T091644:635535406048377562
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
