@@ -59,7 +59,12 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\MvcAreas.Custom\MCAreas.Custom.csproj">
+      <Project>{bf2fa1e5-ec66-488d-bee7-00b4e843a686}</Project>
+      <Name>MCAreas.Custom</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\MvcAreas.config" />
   </ItemGroup>
