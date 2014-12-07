@@ -1,0 +1,13 @@
+/sandbox/
+*.user
+*.suo
+bin/
+obj/
+/packages/
+*.ncrunchsolution
+*.ncrunchproject
+_NCrunch*/
+Release/
+*.nupkg
+# Will need to be supplied by consumer
+Libs/Sitecore/*.dll
