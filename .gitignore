@@ -11,3 +11,4 @@ Release/
 *.nupkg
 # Will need to be supplied by consumer
 Libs/Sitecore/*.dll
+MvcAreas.Custom.Tests/license.xml

@@ -60,9 +60,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MvcAreas.Custom\MCAreas.Custom.csproj">
+    <ProjectReference Include="..\MvcAreas.Custom\MvcAreas.Custom.csproj">
       <Project>{bf2fa1e5-ec66-488d-bee7-00b4e843a686}</Project>
-      <Name>MCAreas.Custom</Name>
+      <Name>MvcAreas.Custom</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
